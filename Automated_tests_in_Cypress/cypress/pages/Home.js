@@ -8,7 +8,7 @@ class Home {
     }
 
     productNameType(productNameValue) {
-        this.searchInput.type(productNameValue)
+        this.searchInput.type(productNameValue);
     }
 
     productNameClear() {
